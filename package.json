@@ -1,0 +1,27 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "This is Weather Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "LearningAPI"
+  ],
+  "author": "Mukesh Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MukeshRawatMkR/Weather-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MukeshRawatMkR/Weather-Project/issues"
+  },
+  "homepage": "https://github.com/MukeshRawatMkR/Weather-Project#readme"
+}
